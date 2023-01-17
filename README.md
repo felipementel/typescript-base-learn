@@ -1,6 +1,10 @@
 # typescript-base-learn
 
+# Commands
+````
 tsc --watch
+````
 
-
-mondemon /dist/FILE.js
+````
+nodemon ./dist/FILE.js
+````
